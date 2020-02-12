@@ -1,9 +1,9 @@
 ﻿Month Name,Month,Year,Query Count,Query Text,,,,,,,,,
 September,9,2019,"5,610",test,,,,,,,,"35,000 rows (not including the header), 5 columns",
 September,9,2019,"5,327",directory,,,,,,,,Max queries: ,5610
-January,1,2019,"2,646",Nashville,,,,,,,,,
-October,,2018,816,annual enrollment,,,,,,,,,
-September,,2018,750,annual enrollment,,,,,,,,,
+January,1,2019,"2,646",Nashville,,,,,,,,Year is number: ,TRUE
+October,,2018,816,annual enrollment,,,,,,,,Query count is number:,TRUE
+September,,2018,750,annual enrollment,,,,,,,,Map Searches:,
 September,,2017,704,annual enrollment,,,,,,,,,
 October,10,2019,692,directory,,,,,,,,,
 October,,2017,648,annual enrollment,,,,,,,,,
