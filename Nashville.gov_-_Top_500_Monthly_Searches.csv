@@ -5,7 +5,7 @@ January,,2016,14,17.16.160,1,18917,,,,,,Year is number: ,TRUE,,,
 January,,2016,9,2016 metro pay plan,1,26399,,,,,,Query count is number:,TRUE,,,
 January,,2016,7,2016 pay plan,1,31551,,,,,,Map Searches:,Count,Sum,Average,Max
 January,,2016,7,2016 raise in pension,1,31551,,,,,,,124,11279,90.95967742,351
-January,,2016,15,2016 summer youth programs,1,17757,,,,,,All query counts over 100:,,,,938
+January,,2016,15,2016 summer youth programs,1,17757,,,,,,,,,,
 January,,2016,9,96-555,1,26399,,,,,,,,,,
 January,,2016,7,about me,1,31551,,,,,,Month Name,Month Num,,,
 January,,2016,62,accident report,1,2152,,,,,,January,1,,,
@@ -25,8 +25,8 @@ January,,2016,23,arrest records,1,9894,,,,,,,,,,
 January,,2016,11,Arrests,1,22840,,,,,,,,,,
 January,,2016,27,assessor,1,7822,,,,,,,,,,
 January,,2016,10,Assessor,1,24413,,,,,,47 entries for fire in August,,,,
-January,,2016,12,athena,1,21410,,,,,,,,,,
-January,,2016,17,auction,1,15102,,,,,,,,,,
+January,,2016,12,athena,1,21410,,,,,,All query counts over 100:,,,,938
+January,,2016,17,auction,1,15102,,,,,,Query for codes over 100 times: ,,,,40
 January,,2016,9,Autopsy reports,1,26399,,,,,,,,,,
 January,,2016,8,backflow,1,28780,,,,,,,,,,
 January,,2016,7,beer board,1,31551,,,,,,,,,,
